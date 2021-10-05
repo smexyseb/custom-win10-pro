@@ -1,0 +1,26 @@
+helo thank you for downloading my iso
+
+-----------------------------------------------
+the setup is the same as regular windows 10 pro
+
+you will need to download the install.wim the web adress is 
+
+https://mega.nz/file/zwp2iBxB#Ne7BpXBDVRyLWs5j4-Jd6pw74uVQM6GMs_3aNv5xyBw
+
+the key is 
+
+Ne7BpXBDVRyLWs5j4-Jd6pw74uVQM6GMs_3aNv5xyBw
+-----------------------------------------------
+
+-----------------------------------------------
+then take any regular windows 10 iso and use rufus to put it on any usb 10gb or over
+when its done copy the install.win to were it is located on the usb
+-----------------------------------------------
+
+----------------------------------------------
+then boot to the usb and setup as normaly
+once windows is install setup windows as normal
+then a message will pop up and tell you the apps pre installed
+---------------------------------------------
+
+then your done thanks for installing
