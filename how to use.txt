@@ -24,3 +24,8 @@ then a message will pop up and tell you the apps pre installed
 ---------------------------------------------
 
 then your done thanks for installing
+
+
+--------------------------------------------- 
+some more help can be found at my website link here
+---------------------------------------------
